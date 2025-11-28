@@ -1,0 +1,11 @@
+{
+  "name": "Hue Essential spot GU10",
+  "standby_power": 0.4,
+  "device_type": "light",
+  "calculation_strategy": "lut",
+  "measure_device": "Estimated",
+  "measure_method": "manual",
+  "measure_description": "Linked to LCG006 profile (Hue white and color GU10 400lm) as similar GU10 color lamp. Max power 4.7W, min brightness 2%.",
+  "linked_profile": "signify/LCG006",
+  "created_at": "2025-11-28T11:04:05"
+}
