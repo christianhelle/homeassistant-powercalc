@@ -1,0 +1,11 @@
+{
+  "name": "Hue Essential spot GU10 345lm",
+  "standby_power": 0.2,
+  "calculation_strategy": "linear",
+  "linear_config": {
+    "min": 0.09,
+    "max": 4.7,
+    "min_brightness": 2
+  },
+  "created_at": "2025-11-28T09:35:40"
+}
