@@ -1,0 +1,14 @@
+{
+  "name": "Hue Essential spot GU10",
+  "standby_power": 0.4,
+  "device_type": "light",
+  "calculation_strategy": "linear",
+  "measure_device": "Estimated",
+  "measure_method": "manual",
+  "measure_description": "Estimated based on manufacturer specs. Max power 4.7W, min brightness 2%.",
+  "linear_config": {
+    "min_power": 0.5,
+    "max_power": 4.7
+  },
+  "created_at": "2025-11-28T11:04:05"
+}
